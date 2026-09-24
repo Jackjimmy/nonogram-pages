@@ -1,10 +1,7 @@
-# Nonogram — Playable Demo
+# Nonogram — Playable Demo (archived)
 
-Live: https://play.nonogram.com.cn
+This repository is archived. It held only the compiled output of an early web demo.
 
-This public repository holds **only the compiled output** of a small curated demo
-(12 puzzles) of the Nonogram game. The full puzzle library, application source,
-backend, tooling and internal docs live in a separate private repository and are
-**not** published here.
-
-Everything in this repo is generated — do not edit by hand.
+- **Source of the current web demo:** [Jackjimmy/gridweave-demo](https://github.com/Jackjimmy/gridweave-demo)
+- **Play it:** https://play.nonogram.com.cn
+- **How it was built:** https://nonogram.com.cn/en/build
